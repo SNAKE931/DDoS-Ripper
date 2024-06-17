@@ -1,0 +1,12 @@
+"pkg install git -y
+
+pkg install python -y
+
+pkg install python3 -y
+
+git clone https://github.com/palahsu/DDoS-Ripper.git
+
+cd DDoS-Ripper $ ls
+
+$ python3 DRipper.py"
+ https://github.com/palahsu/DDoS-Ripper#:~:text=pkg%20install%20git,python3%20DRipper.py
